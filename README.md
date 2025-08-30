@@ -11,7 +11,7 @@ An innovative application designed to streamline last-minute exam preparation an
 
 
 ## Getting Started
-**1- Download the Application:** Clone or download the repository from the link [here](https://github.com/yashrajsingh1/Personal_Ai_tutor/tree/main).
+**1- Download the Application:** Clone or download the repository from the link [here](https://github.com/yashrajsingh1/Personal_Ai_tutor/).
 
 **2- Install the Application:** Follow the installation instructions for your operating system.
 

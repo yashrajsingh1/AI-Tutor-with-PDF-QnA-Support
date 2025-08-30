@@ -11,7 +11,7 @@ An innovative application designed to streamline last-minute exam preparation an
 
 
 ## Getting Started
-**1- Download the Application:** Clone or download the repository from the link [here](https://github.com/1aryantyagi/Personal_tutor.git).
+**1- Download the Application:** Clone or download the repository from the link [here](https://github.com/yashrajsingh1/Personal_Ai_tutor/tree/main).
 
 **2- Install the Application:** Follow the installation instructions for your operating system.
 
@@ -23,4 +23,3 @@ An innovative application designed to streamline last-minute exam preparation an
 
 **6- Use the Automatic Question Generation:** Generate questions based on your source material and select the difficulty level that suits your needs..
 
-![Working.jpg](Working.jpg)

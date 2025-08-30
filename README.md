@@ -1,4 +1,4 @@
-# Personal_tutor
+# Personal_Ai_tutor
 
 An innovative application designed to streamline last-minute exam preparation and revision. By harnessing the power of AI models, this application offers a range of features to help you prepare for your exams efficiently and effectively.
 
